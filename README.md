@@ -33,7 +33,7 @@ A collection of resources for learning Python as a beginner.
 ## Channels 
 These are the channels I recommended for python beginners to advanced. 
 
-- [Indently](https://youtube.com/@intently) He loves code blocks
+- [Indently](https://youtube.com/@intently) He loves type annotations! 
 - [Tech with Tim](https://youtube.com/@techwithtim) Watch his playlists
 - [Corey Schafer](https://youtube.com/@coreyms) Informative 
 - [Carberra](https://youtube.com/@carberra)
