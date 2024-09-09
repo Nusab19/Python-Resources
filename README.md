@@ -27,3 +27,16 @@ A collection of resources for learning Python as a beginner.
 - [F-String Tricks in Python by `Indently`](https://youtu.be/EoNOWVYKyo0)
 - [10 Python Tricks for Cleaner Code by `Programming Hero`](https://youtu.be/WEP3DVTjKCc)
 - [How to Use Jupyter Notebook by `Indently`](https://youtu.be/IMrxB8Mq5KU)
+
+
+
+## Channels 
+These are the channels I recommended for python beginners to advanced. 
+
+- [Indently](https://youtube.com/@intently) He loves code blocks
+- [Tech with Tim](https://youtube.com/@techwithtim) Watch his playlists
+- [Corey Schafer](https://youtube.com/@coreyms) Informative 
+- [Carberra](https://youtube.com/@carberra)
+- [mCoding](https://youtube.com/@mcoding) For advanced python
+- [Code with Harry](https://youtube.com/@codewithharry) Watch the python playlist
+	> For those who understand hindi
