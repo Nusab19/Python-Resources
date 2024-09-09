@@ -38,5 +38,5 @@ These are the channels I recommended for python beginners to advanced.
 - [Corey Schafer](https://youtube.com/@coreyms) Informative 
 - [Carberra](https://youtube.com/@carberra)
 - [mCoding](https://youtube.com/@mcoding) For advanced python
-- [Code with Harry](https://youtube.com/@codewithharry) Watch the python playlist
-	> For those who understand hindi
+- [Code with Harry](https://youtube.com/@codewithharry) For those who understand Hindi
+- [Tamim Shahriar](https://youtube.com/@tamimshahriar) For those who understand Bangla
